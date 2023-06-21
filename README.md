@@ -2,6 +2,13 @@
   
   <h2>Description</h2>
   <p>TheLuxEmpire AI_Trains is a resource for Grand Theft Auto V (GTA V) multiplayer servers that adds AI-controlled trains to enhance the immersive experience. This resource allows trains to stop at designated train stations, creating a more realistic train transportation system within the game world.</p>
+
+![1](https://user-images.githubusercontent.com/48193931/247384773-c0db2d8c-5f3f-43cf-96f6-e03aec983d54.png)
+![2](https://user-images.githubusercontent.com/48193931/247384774-eba4b9d5-fbd5-467d-8314-e2085f888df5.png)
+![3](https://user-images.githubusercontent.com/48193931/247384775-5ac8ed26-af78-4106-a0ff-49bba4df478a.png)
+![4](https://user-images.githubusercontent.com/48193931/247384776-9ba8605a-0678-4e43-a44a-4c22f014cb80.png)
+
+Youtube: https://www.youtube.com/watch?v=sOb05mxlkyc&feature=youtu.be
   
   <h2>Features</h2>
   <ul>
