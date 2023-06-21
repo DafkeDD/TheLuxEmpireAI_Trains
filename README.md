@@ -43,3 +43,17 @@
     <li>QBcore: If you are using QBcore, make sure to have the framework installed and running on your server. The resource will automatically utilize the QBcore integration.</li>
     <li>ESX: If you are using ESX, make sure to have the framework installed and running on your server. The resource will automatically utilize the ESX integration.</li>
   </ul>
+
+  <h2>Notes</h2>
+  <ul>
+    <li>Make sure to adjust the train station coordinates in the client.lua file to match your desired locations..</li>
+    <li>Modify the config.lua file to add or modify tracks and train configurations according to your needs.</li>
+    <li>This resource is for FiveM multiplayer servers and may not work in the single-player mode of GTA V..</li>
+  </ul>
+
+ <h2>Testing</h2>
+  <ul>
+    <li>For testing you can join my server. and my discord. server: https://servers.fivem.net/servers/detail/8gj7eb</li>
+   <li>My discord. server: https://discord.gg/theluxempire</li>
+  </ul>
+
