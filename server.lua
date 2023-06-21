@@ -6,3 +6,4 @@ elseif Config.Framework == 'esx' then
     ESX.RegisterServerCallback('luxempire:getTrainConfig', function(source, callback)
         callback(Config)
     end)
+end
