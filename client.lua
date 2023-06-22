@@ -1,3 +1,5 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+
 local trainStations = {
     { x = 100.0, y = 200.0, z = 300.0 }, -- Example train station coordinates
     { x = 400.0, y = 500.0, z = 600.0 }  -- Add more train station coordinates as needed
