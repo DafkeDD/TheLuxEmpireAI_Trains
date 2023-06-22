@@ -5,7 +5,7 @@ local trainStations = {
 
 Citizen.CreateThread(function()
     if Config.Framework == 'qbcore' then
-        QBcore.Functions.TriggerCallback('luxempire:getTrainConfig', function(config)
+        QBCore.Functions.TriggerCallback('luxempire:getTrainConfig', function(config)
             StartTrainSpawning(config)
         end)
     elseif Config.Framework == 'esx' then
