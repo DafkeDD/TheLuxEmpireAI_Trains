@@ -1,5 +1,5 @@
 if Config.Framework == 'qbcore' then
-    QBcore.Functions.CreateCallback('luxempire:getTrainConfig', function(source, callback)
+    QBCore.Functions.CreateCallback('luxempire:getTrainConfig', function(source, callback)
         callback(Config)
     end)
 elseif Config.Framework == 'esx' then
