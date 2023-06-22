@@ -1,3 +1,5 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+
 if Config.Framework == 'qbcore' then
     QBCore.Functions.CreateCallback('luxempire:getTrainConfig', function(source, callback)
         callback(Config)
