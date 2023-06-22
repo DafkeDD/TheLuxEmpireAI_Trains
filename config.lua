@@ -31,6 +31,3 @@ Config.Tracks = {
     },
     -- Add more tracks as needed
 }
-
--- Add more options here as per your AI knowledge
--- Example: Config.MaxSpeed = 100, Config.NumPassengers = 50, etc.
