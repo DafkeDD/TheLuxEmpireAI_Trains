@@ -5,9 +5,15 @@ author 'iBoss / iBoss#3536'
 description 'TheLuxEmpire AI_Trains - A resource that adds AI-controlled trains to your server, allowing them to stop at designated train stations.'
 version '1.0.0'
 
-client_scripts {
+shared_scripts {
     'config.lua',
-    'client.lua'
 }
 
-server_script 'server.lua'
+client_scripts {
+    'client.lua',
+}
+
+server_scripts {
+    'config.lua',
+    'server.lua',
+}
